@@ -1,0 +1,6 @@
+E:\SteamLibrary\steamapps\common\The Forest\modapi_20180429_1.0.5.0\projects\TheForest\FarketRoofing\obj\x86\Release\FarketRoofing.csprojResolveAssemblyReference.cache
+E:\SteamLibrary\steamapps\common\The Forest\modapi_20180429_1.0.5.0\projects\TheForest\FarketRoofing\obj\x86\Release\FarketRoofing.csproj.CoreCompileInputs.cache
+E:\SteamLibrary\steamapps\common\The Forest\modapi_20180429_1.0.5.0\projects\TheForest\FarketRoofing\Mod\FarketRoofing.dll
+E:\SteamLibrary\steamapps\common\The Forest\modapi_20180429_1.0.5.0\projects\TheForest\FarketRoofing\Mod\FarketRoofing.pdb
+E:\SteamLibrary\steamapps\common\The Forest\modapi_20180429_1.0.5.0\projects\TheForest\FarketRoofing\obj\x86\Release\FarketRoofing.dll
+E:\SteamLibrary\steamapps\common\The Forest\modapi_20180429_1.0.5.0\projects\TheForest\FarketRoofing\obj\x86\Release\FarketRoofing.pdb
